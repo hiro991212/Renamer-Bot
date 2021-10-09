@@ -26,7 +26,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": false
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
